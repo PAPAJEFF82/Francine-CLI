@@ -1,0 +1,2 @@
+# Francine-CLI
+Ultimate AI
